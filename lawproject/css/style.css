@@ -1,0 +1,23 @@
+* {
+    font-family: Calibri, Geneva, Tahoma, sans-serif;
+}
+
+thead tr td {
+    background-color: #ddd;
+}
+
+th, td, tr {
+    padding: 5px;
+}
+
+tr:nth-child(odd) {
+	background-color: #eee;
+}
+
+tr:nth-child(even) {
+	background-color: #ddd;
+}
+
+tr:hover {
+    background-color: #f6f6f6;
+}
